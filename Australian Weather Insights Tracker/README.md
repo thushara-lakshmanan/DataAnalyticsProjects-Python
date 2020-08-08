@@ -29,3 +29,4 @@ Variables info:
  22. RainToday --> boolean: 1 if precipitation (mm) in the 24 hours to 9am exceeds 1mm, otherwise 0
  23. RISK_MM --> the amount of next day rain in mm. Used to create response variable RainTomorrow. 
  24. RainTomorrow --> did it rain the following day?
+Sgit statud=
