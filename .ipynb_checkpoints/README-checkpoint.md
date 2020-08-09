@@ -9,4 +9,4 @@ The projects in this github repository undergo different data analytics cycle, s
 2. [Airbnb Insights Tracker](https://github.com/thushara-lakshmanan/DataAnalyticsProjects-Python/tree/master/Airbnb%20Insights%20Tracker)
 3. [Australian Weather Insights Tracker](https://github.com/thushara-lakshmanan/DataAnalyticsProjects-Python/tree/master/Australian%20Weather%20Insights%20Tracker)
 
-Note: This is a work in progress repository.Some projects are not yet documented here. S
+Note: This is a work in progress repository.Some projects are not yet documented here. 
