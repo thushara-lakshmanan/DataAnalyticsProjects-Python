@@ -50,7 +50,7 @@ All other data from http://afltables.com
  
 All these data is stored in one single csv file.The original data [Australian_Football_League_Database.csv](https://raw.githubusercontent.com/thushara-lakshmanan/python-intro/master/data/Australian_Football_League_Database.csv)- is saved  in [data](https://github.com/thushara-lakshmanan/python-intro/tree/master/data) folder.There is also a cleaned version called [AFL_Ready.csv](https://raw.githubusercontent.com/thushara-lakshmanan/python-intro/master/data/AFL_Ready.csv) in the same folder.
 
-[**The Jupyter notebook for this analysis is saved as mini_assessment_week6_TL.ipynb**](https://github.com/thushara-lakshmanan/python-intro/blob/master/lesson_6/mini-assessment_6/mini_assessment_week6_TL.ipynb)
+[**The Jupyter notebook for this analysis is saved as AFL_Team_Player_Analysis.ipynb**](https://github.com/thushara-lakshmanan/DataAnalyticsProjects-Python/blob/master/AFL%20Team%20and%20Player%20%20Performance%20Analysis/AFL_Team_Player_Analysis.ipynb)
 
 Table of contents
 
@@ -66,6 +66,6 @@ Table of contents
 5. Summary
 6. Future Work
 
-Note: As data was in good condition not much cleaning was needed.Data was missing for West Coast & Collingwood QF-2018 and Melbourne & Geelong EF-2018 and it was replaced as per [wikipedia](https://en.wikipedia.org/wiki/2018_AFL_finals_series).Couple of unwanted columns are dropped and few new columns are added.
+Note: As data was in good condition not much cleaning was needed.Data were missing for West Coast & Collingwood QF-2018 and Melbourne & Geelong EF-2018 and it was replaced as per [wikipedia](https://en.wikipedia.org/wiki/2018_AFL_finals_series).A couple of unwanted columns are dropped and few new columns are added.
 
 This dataset really helped to get more insight on team and player's performance.
