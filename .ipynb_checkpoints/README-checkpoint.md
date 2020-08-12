@@ -1,6 +1,6 @@
 # Data Analytics Projects-Python
 
-This repository contains data analytics projects using python.
+This repository contain data analytics projects using python.
 
 The projects in this github repository undergo different data analytics cycle, such as load and read data using pandas, inspect data, find any inconsistencies or issues, deal with missing values, exploratory data analysis using matplotlib, seaborn, and bokeh. And finally, find interesting trends and patterns in data.
 
@@ -9,4 +9,4 @@ The projects in this github repository undergo different data analytics cycle, s
 2. [Airbnb Insights Tracker](https://github.com/thushara-lakshmanan/DataAnalyticsProjects-Python/tree/master/Airbnb%20Insights%20Tracker)
 3. [Australian Weather Insights Tracker](https://github.com/thushara-lakshmanan/DataAnalyticsProjects-Python/tree/master/Australian%20Weather%20Insights%20Tracker)
 
-Note: This is a work in progress repository.Some projects are not yet documented here. 
+Note: This is a work in progress repository.Some projects are not yet documented here.
