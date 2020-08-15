@@ -1,9 +1,9 @@
 ####  Australian Football League Team and Player's Performance Analysis-Season 2012-2018
 
-The dataset for this analysis is downloaded from [kaggle](https://www.kaggle.com/stoney71/aflstats) website.There are million different things that can be done with this dataset.At this stage mainly focusing on different teams and player's performance analysis.And also to find interesting correlation between few variables.Hoping to use this dataset for machine learning and performance prediction in future.
+The dataset for this analysis is downloaded from [kaggle](https://www.kaggle.com/stoney71/aflstats) website.There are million different things that can be done with this dataset.At this stage mainly focusing on different teams and player's performance analysis.And also to find interesting correlation between few variables.Hoping to use this dataset for machine learning and performance prediction the in the future.
  
 Each observation (row) is the player’s statistics for one game of AFL Football. Every AFL regular
-home & away game and finals series game in the relevant seasons is included.Pre-Season, Reserves and trial games are not included.
+home & away game and finals series game in the relevant seasons is included.Pre-Season, Reserves, and trial games are not included.
 
 Feature columns as per kaggle
 

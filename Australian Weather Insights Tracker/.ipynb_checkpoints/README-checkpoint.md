@@ -31,7 +31,7 @@ Variables info:
 - RISK_MM --> the amount of next day rain in mm. Used to create response variable RainTomorrow. 
 - RainTomorrow --> did it rain the following day?
 
-All these data is stored in one single csv file.The original data [weatherAUS.csv](https://raw.githubusercontent.com/thushara-lakshmanan/DataAnalyticsProjects-Python/master/Data/weatherAUS.csv)- is saved  in [data](https://github.com/thushara-lakshmanan/DataAnalyticsProjects-Python/tree/master/Data) folder.There is also a cleaned version called [weather_ready.csv](https://github.com/thushara-lakshmanan/DataAnalyticsProjects-Python/blob/master/Data/weather_ready.csv) in the same folder.
+All these data are stored in one single csv file.The original data [weatherAUS.csv](https://raw.githubusercontent.com/thushara-lakshmanan/DataAnalyticsProjects-Python/master/Data/weatherAUS.csv)- is saved  in [data](https://github.com/thushara-lakshmanan/DataAnalyticsProjects-Python/tree/master/Data) folder.There is also a cleaned version called [weather_ready.csv](https://github.com/thushara-lakshmanan/DataAnalyticsProjects-Python/blob/master/Data/weather_ready.csv) in the same folder.
 
 [**The Jupyter notebook for this analysis is saved as Australian_Weather_Insights_Tracker.ipynb**](hhttps://github.com/thushara-lakshmanan/DataAnalyticsProjects-Python/blob/master/Australian%20Weather%20Insights%20Tracker/Australian_Weather_Insights_Tracker.ipynb)
 
